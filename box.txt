@@ -4,4 +4,33 @@ when you to love me young and beateful
 the day
 i don't wanna see you agian
 common baby is now
-my boss is beach
+
+
+
+
+git remote add origin git@github.com:agonyOcen/ocen.git
+
+
+
+$ ssh-keygen -t rsa -C "2836687849@qq.com"
+Generating public/private rsa key pair.
+Enter file in which to save the key (/c/Users/Administrator/.ssh/id_rsa):
+Created directory '/c/Users/Administrator/.ssh'.
+Enter passphrase (empty for no passphrase):
+Enter same passphrase again:
+Your identification has been saved in /c/Users/Administrator/.ssh/id_rsa.
+Your public key has been saved in /c/Users/Administrator/.ssh/id_rsa.pub.
+The key fingerprint is:
+SHA256:kbsEOPPpXomZopLFsJzI1ETcln8umNM2/DVFZpOm4js 2836687849@qq.com
+The key's randomart image is:
++---[RSA 2048]----+
+|  o.. .       .  |
+|   o =   .   B   |
+|  o = o o   * .  |
+|.. . + + = . .   |
+|=+.   B S . .    |
+|o+o  = @ = o     |
+| o  . B B o .    |
+|o  . o . E       |
+| ..   .   .      |
++----[SHA256]-----+
