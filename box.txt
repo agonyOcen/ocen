@@ -9,6 +9,17 @@ common baby is now
 
 
 git remote add origin git@github.com:agonyOcen/ocen.git
+git@github.com:agonyOcen/ocen.git
+    github.com/agonyOcen/ocen.git
+
+
+
+
+
+
+
+
+
 
 
 
